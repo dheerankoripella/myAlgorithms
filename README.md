@@ -1,4 +1,4 @@
-# myAlgorithms
+# SortAlgorithm
 
 1. Depending on the array size, create a nested for loop
 2. Create a temporary variable to store the array value of the current position
